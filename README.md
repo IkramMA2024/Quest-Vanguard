@@ -77,3 +77,8 @@ Perform univariate and bivariate analyses on client profiles.
 Conduct interface analysis to compare different groups.
 Run hypothesis tests to draw significant conclusions.
 Use Tableau, Matplotlib and Seaborn for visualizing the distributions, comparisons, and test results.
+
+Conclusion
+This project provides valuable insights into client behaviors and demographics, helping to optimize user interfaces and enhance client engagement. By following the steps outlined, you can replicate the analysis and derive meaningful conclusions from the data.
+
+Happy analyzing! 🎉
